@@ -1,5 +1,5 @@
 #!/bin/bash
-echo " Hello friends, I am mahesh, this is my Demo-----------------"
+echo " Hello friends, I am Mahesh, this is my Demo-----------------"
 sleep 5
 echo " Executing Main.go file.....pls wait..!!!"
 echo "    "

@@ -1,0 +1,173 @@
+ Hello friends, I am mahesh, this is my Demo-----------------
+ Executing Main.go file.....pls wait..!!!
+
+
+Previous Hash:
+Data in Block: Genesis
+Hash: 81ddc8d248b2dccdd3fdd5e84f0cad62b08f2d10b57f9a831c13451e5c5c80a5
+Previous Hash: 81ddc8d248b2dccdd3fdd5e84f0cad62b08f2d10b57f9a831c13451e5c5c80a5
+Data in Block: First Block after Genesis
+Hash: 50493b76a2b7bec8d33620d6310d5578b1dda079684405ed5e6bd55510146daf
+Previous Hash: 50493b76a2b7bec8d33620d6310d5578b1dda079684405ed5e6bd55510146daf
+Data in Block: Second Block after Genesis
+Hash: 213e91a4ae1be45a651695ede0e75cba50818dce027dd4f0fe35742dc90158e1
+Previous Hash: 213e91a4ae1be45a651695ede0e75cba50818dce027dd4f0fe35742dc90158e1
+Data in Block: Third Block after Genesis
+Hash: e22b76962d23ed3e327b9ababac19270b56c4d70d8878446609b13fa72ebc0e1
+Press y to continue Executing Main.go file with random data2.....pls wait..!!!
+
+
+
+
+0000342dc11a9fd1833ed9fe18ca5627cedc56507de6698acfcafd301398cb35
+0000369e9426372d3cebce461fe572bc21f32658a750363c8c56318a2f65250b
+00000bade507e95df5dd7a0cec060a989791242644b5ca2409118c3aa0563b1b
+000013feb7b8978b7bd9fbaa5891e15f0c97ca17693d50832ece9737d9193f33
+Previous Hash:
+Data in Block: Genesis
+Hash: 0000342dc11a9fd1833ed9fe18ca5627cedc56507de6698acfcafd301398cb35
+PoW: true
+
+Previous Hash: 0000342dc11a9fd1833ed9fe18ca5627cedc56507de6698acfcafd301398cb35
+Data in Block: First Block after Genesis
+Hash: 0000369e9426372d3cebce461fe572bc21f32658a750363c8c56318a2f65250b
+PoW: true
+
+Previous Hash: 0000369e9426372d3cebce461fe572bc21f32658a750363c8c56318a2f65250b
+Data in Block: Second Block after Genesis
+Hash: 00000bade507e95df5dd7a0cec060a989791242644b5ca2409118c3aa0563b1b
+PoW: true
+
+Previous Hash: 00000bade507e95df5dd7a0cec060a989791242644b5ca2409118c3aa0563b1b
+Data in Block: Third Block after Genesis
+Hash: 000013feb7b8978b7bd9fbaa5891e15f0c97ca17693d50832ece9737d9193f33
+PoW: true
+
+Press y to continue y
+ Executing Main.go file with random data3.....pls wait..!!!
+
+
+2021/02/27 19:19:10 Replaying from value pointer: {Fid:0 Len:42 Offset:1196}
+2021/02/27 19:19:10 Iterating file id: 0
+2021/02/27 19:19:10 Iteration took: 1.0037ms
+00002733da60051675be9d2f5819eda7327d2bde39ebbc5c78d4a0f2a7d3ed21
+Added Block!
+ Printing new block chain just we added
+2021/02/27 19:19:45 Replaying from value pointer: {Fid:0 Len:42 Offset:1515}
+2021/02/27 19:19:45 Iterating file id: 0
+2021/02/27 19:19:45 Iteration took: 0s
+Prev. hash: 00003f57f4bcb722bf68032b2493981d94d3d56edf227dc228202e270951244e
+Data: First block
+Hash: 00002733da60051675be9d2f5819eda7327d2bde39ebbc5c78d4a0f2a7d3ed21
+PoW: true
+
+Prev. hash: 0000054a417de4cdff53940e43595021c1ac99609ca6b95955d673870ad3f984
+Data: First block
+Hash: 00003f57f4bcb722bf68032b2493981d94d3d56edf227dc228202e270951244e
+PoW: true
+
+Prev. hash: 000003663cb219c25f3568bdbbb4726beef5a6e704ba8ce9f594b078016b4658
+Data: First block
+Hash: 0000054a417de4cdff53940e43595021c1ac99609ca6b95955d673870ad3f984
+PoW: true
+
+Prev. hash: 0000342dc11a9fd1833ed9fe18ca5627cedc56507de6698acfcafd301398cb35
+Data: First block
+Hash: 000003663cb219c25f3568bdbbb4726beef5a6e704ba8ce9f594b078016b4658
+PoW: true
+
+Prev. hash:
+Data: Genesis
+Hash: 0000342dc11a9fd1833ed9fe18ca5627cedc56507de6698acfcafd301398cb35
+PoW: true
+
+Press y to continue y
+ Executing Main.go file with Transactions enableed  data4.....pls wait..!!!
+===================================================
+Blockchain already exists
+ Printing new block chain just we added
+2021/02/27 19:20:34 Replaying from value pointer: {Fid:0 Len:42 Offset:3300}
+2021/02/27 19:20:34 Iterating file id: 0
+2021/02/27 19:20:34 Iteration took: 0s
+Prev. hash: 000101b1c6df05afc67af597648d64b8f5beafce6083e1ccc5f2c3a727b9753a
+Hash: 00002277a9587d7e8a23dd51b2a758c22c6e7a990599116f7e028df1d99bd364
+PoW: true
+
+Prev. hash: 00069f77ff00f6320e7fa90aef21de89fe44241e1684fe5230b79f35401a7823
+Hash: 000101b1c6df05afc67af597648d64b8f5beafce6083e1ccc5f2c3a727b9753a
+PoW: true
+
+Prev. hash: 00098aac4113dc479687e4fbe9c7e23d825e450f21b321676bacd2699c46ec34
+Hash: 00069f77ff00f6320e7fa90aef21de89fe44241e1684fe5230b79f35401a7823
+PoW: true
+
+Prev. hash: 0007ddc951364d8bf350675392bfdf8a3fb83e92e2b9728ac6c3d6843ad055d1
+Hash: 00098aac4113dc479687e4fbe9c7e23d825e450f21b321676bacd2699c46ec34
+PoW: true
+
+Prev. hash:
+Hash: 0007ddc951364d8bf350675392bfdf8a3fb83e92e2b9728ac6c3d6843ad055d1
+PoW: true
+
+Printing the balance of Mahesh
+====================================================
+2021/02/27 19:20:52 Replaying from value pointer: {Fid:0 Len:42 Offset:3300}
+2021/02/27 19:20:52 Iterating file id: 0
+2021/02/27 19:20:52 Iteration took: 412.9µs
+Balance of Mahesh: 70
+Transferring balance/tokens from Chinna to Mahesh
+====================================================
+2021/02/27 19:20:55 Replaying from value pointer: {Fid:0 Len:42 Offset:3300}
+2021/02/27 19:20:55 Iterating file id: 0
+2021/02/27 19:20:55 Iteration took: 0s
+00015e4d4050cb179679d7b745c30ab225c1215090c56585e161e173aca5ad31
+Success!
+
+
+
+
+Printing the balance of Mahesh
+====================BALANCE================================
+2021/02/27 19:20:58 Replaying from value pointer: {Fid:0 Len:43 Offset:3984}
+2021/02/27 19:20:58 Iterating file id: 0
+2021/02/27 19:20:58 Iteration took: 0s
+Balance of Mahesh: 80
+Press y to continue Executing Main.go file with Wallet module data5.....pls wait..!!!
+*********************WALLETS***********************************
+New address is: 19QBQY6RmZeskTD4Ckv7v4Zo9HzQ326so3
+
+New address is: 12qXTjSJy8MXdHEPNY5GeVBPoqfsjuzD6A
+
+
+
+
+ listing the created address/wallets
+
+
+12F7qEEj7vfRFgY1mdxJWpV9MXjjrWAvSC
+17MdwGudK87gVSo5P5Jr7SLekTgH2qELn9
+19QBQY6RmZeskTD4Ckv7v4Zo9HzQ326so3
+148Eh3i4pLDU7iUV7XSC9wcmjqVFQZ5m5k
+15sZgyCvXSPSaeSmcTdnMzV3UBzXeCrGnF
+13Ucp6dnz2TMWjmTVKFyNkLVmPDhMKSPjv
+1KTz6GvzdjcQ3ZeRN1V7yoUmdoRMdZQHxb
+12qXTjSJy8MXdHEPNY5GeVBPoqfsjuzD6A
+17rLiprqEut3uZxRKYWrQrtyCibLwHC9SU
+Press y to continue Executing Main.go file with Signature module enabled data5.....pls wait..!!!
+*********************SIGNATURES ENABLED***********************************
+New address is: 17tGJzqroDTzWM6nSjVADEVDuSkZfoeqdE
+-------------------
+New address is: 1NP9ERxdDUhBhNr2YwRQFH2i2oynsgXutd
+
+ creating a new block chain with signature enabled
+Blockchain already exists
+ showing the block chain signatures
+2021/02/27 19:21:47 Replaying from value pointer: {Fid:0 Len:42 Offset:616}
+2021/02/27 19:21:47 Iterating file id: 0
+2021/02/27 19:21:47 Iteration took: 0s
+Prev. hash:
+Hash: 0003302cc9199a19d5d7512636117b9460bd0b38cafa8003e4e571fb1403819d
+PoW: true
+
+ Thank you.................!!!!!!!!!!!
+
